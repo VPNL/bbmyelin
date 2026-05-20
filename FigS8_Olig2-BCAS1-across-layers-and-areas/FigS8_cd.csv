@@ -1,0 +1,283 @@
+﻿Slide_number,BCAS1_density_mm2,Region,SampleID,Age_group,Age,Layer,morphology
+0mo_284,23.18114228,Calc,MAX_A15-76_39gw_Slide284_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,0,deep,stellate
+0mo_284,0,Calc,MAX_A15-76_39gw_Slide284_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,0,deep,ensheathing
+0mo_284,0,Calc,MAX_A15-76_39gw_Slide284_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,0,middle,stellate
+0mo_284,0,Calc,MAX_A15-76_39gw_Slide284_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,0,middle,ensheathing
+0mo_284,0,Calc,MAX_A15-76_39gw_Slide284_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,0,superficial,stellate
+0mo_284,0,Calc,MAX_A15-76_39gw_Slide284_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,0,superficial,ensheathing
+0mo_284,0,CoS,,a_0-1.5 mo,0,deep,stellate
+0mo_284,0,CoS,,a_0-1.5 mo,0,deep,ensheathing
+0mo_284,0,CoS,,a_0-1.5 mo,0,middle,stellate
+0mo_284,0,CoS,,a_0-1.5 mo,0,middle,ensheathing
+0mo_284,0,CoS,,a_0-1.5 mo,0,superficial,stellate
+0mo_284,0,CoS,,a_0-1.5 mo,0,superficial,ensheathing
+0mo_284,0,FG,,a_0-1.5 mo,0,deep,stellate
+0mo_284,0,FG,,a_0-1.5 mo,0,deep,ensheathing
+0mo_284,0,FG,,a_0-1.5 mo,0,middle,stellate
+0mo_284,0,FG,,a_0-1.5 mo,0,middle,ensheathing
+0mo_284,0,FG,,a_0-1.5 mo,0,superficial,stellate
+0mo_284,0,FG,,a_0-1.5 mo,0,superficial,ensheathing
+1mo_106,11.2617067,Calc,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCalc.tif:4,a_0-1.5 mo,1,deep,stellate
+1mo_106,0,Calc,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCalc.tif:4,a_0-1.5 mo,1,deep,ensheathing
+1mo_106,16.96651263,Calc,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCalc.tif:4,a_0-1.5 mo,1,middle,stellate
+1mo_106,0,Calc,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCalc.tif:4,a_0-1.5 mo,1,middle,ensheathing
+1mo_106,11.89688373,Calc,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCalc.tif:4,a_0-1.5 mo,1,superficial,stellate
+1mo_106,0,Calc,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCalc.tif:4,a_0-1.5 mo,1,superficial,ensheathing
+1mo_106,21.46074533,CoS,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCoS.tif:1,a_0-1.5 mo,1,deep,stellate
+1mo_106,0,CoS,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCoS.tif:1,a_0-1.5 mo,1,deep,ensheathing
+1mo_106,0,CoS,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCoS.tif:1,a_0-1.5 mo,1,middle,stellate
+1mo_106,0,CoS,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCoS.tif:1,a_0-1.5 mo,1,middle,ensheathing
+1mo_106,0,CoS,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCoS.tif:1,a_0-1.5 mo,1,superficial,stellate
+1mo_106,0,CoS,crop_MAX_1w-A15-16-106-DAPI-IBA1-NFH-BCAS1-40X-StripCoS.tif:1,a_0-1.5 mo,1,superficial,ensheathing
+1mo_170,11.09327639,CoS,crop_2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.tif:c:1/4 - 2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.nd2 (,a_0-1.5 mo,1,deep,stellate
+1mo_170,0,CoS,crop_2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.tif:c:1/4 - 2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.nd2 (,a_0-1.5 mo,1,deep,ensheathing
+1mo_170,0,CoS,crop_2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.tif:c:1/4 - 2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.nd2 (,a_0-1.5 mo,1,middle,stellate
+1mo_170,0,CoS,crop_2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.tif:c:1/4 - 2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.nd2 (,a_0-1.5 mo,1,middle,ensheathing
+1mo_170,1.665255112,CoS,crop_2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.tif:c:1/4 - 2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.nd2 (,a_0-1.5 mo,1,superficial,stellate
+1mo_170,0,CoS,crop_2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.tif:c:1/4 - 2W-A15-16-170-CoS-DAPI-PV-MBP-BCAS1-40X-Strip1.nd2 (,a_0-1.5 mo,1,superficial,ensheathing
+4mo_101,0,Calc,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:1,b_4-6 mo,4,deep,stellate
+4mo_101,43.5624173,Calc,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:1,b_4-6 mo,4,deep,ensheathing
+4mo_101,22.63122888,Calc,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:1,b_4-6 mo,4,middle,stellate
+4mo_101,13.57873733,Calc,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:1,b_4-6 mo,4,middle,ensheathing
+4mo_101,4.462745569,Calc,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:1,b_4-6 mo,4,superficial,stellate
+4mo_101,0,Calc,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:1,b_4-6 mo,4,superficial,ensheathing
+4mo_101,20.89784957,CoS,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:1,b_4-6 mo,4,deep,stellate
+4mo_101,20.89784957,CoS,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:1,b_4-6 mo,4,deep,ensheathing
+4mo_101,22.36225716,CoS,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:1,b_4-6 mo,4,middle,stellate
+4mo_101,0,CoS,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:1,b_4-6 mo,4,middle,ensheathing
+4mo_101,8.664805692,CoS,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:1,b_4-6 mo,4,superficial,stellate
+4mo_101,2.888268564,CoS,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:1,b_4-6 mo,4,superficial,ensheathing
+4mo_101,4.644921155,FG,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_FG.tif:1,b_4-6 mo,4,deep,stellate
+4mo_101,6.193228206,FG,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_FG.tif:1,b_4-6 mo,4,deep,ensheathing
+4mo_101,2.322460577,FG,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_FG.tif:1,b_4-6 mo,4,middle,stellate
+4mo_101,0,FG,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_FG.tif:1,b_4-6 mo,4,middle,ensheathing
+4mo_101,10.10273254,FG,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_FG.tif:1,b_4-6 mo,4,superficial,stellate
+4mo_101,0,FG,crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_FG.tif:1,b_4-6 mo,4,superficial,ensheathing
+4mo_123,3.214498964,Calc,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Calc.tif:1,b_4-6 mo,4,deep,stellate
+4mo_123,24.71795179,Calc,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Calc.tif:1,b_4-6 mo,4,deep,ensheathing
+4mo_123,6.179487949,Calc,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Calc.tif:1,b_4-6 mo,4,middle,stellate
+4mo_123,11.37248748,Calc,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Calc.tif:1,b_4-6 mo,4,middle,ensheathing
+4mo_123,22.74497495,Calc,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Calc.tif:1,b_4-6 mo,4,superficial,stellate
+4mo_123,0,Calc,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Calc.tif:1,b_4-6 mo,4,superficial,ensheathing
+4mo_123,17.26235948,CoS,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Cos.tif:1,b_4-6 mo,4,deep,stellate
+4mo_123,8.631179738,CoS,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Cos.tif:1,b_4-6 mo,4,deep,ensheathing
+4mo_123,0,CoS,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Cos.tif:1,b_4-6 mo,4,middle,stellate
+4mo_123,0,CoS,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Cos.tif:1,b_4-6 mo,4,middle,ensheathing
+4mo_123,13.25128602,CoS,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Cos.tif:1,b_4-6 mo,4,superficial,stellate
+4mo_123,0,CoS,crop_MAX_A19-122_4mo_Slide123_DAPI-MBP-BCAS1_Cos.tif:1,b_4-6 mo,4,superficial,ensheathing
+4mo_154,5.89624505,Calc,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Calc.tif:deep:1,b_4-6 mo,4,deep,stellate
+4mo_154,11.7924901,Calc,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Calc.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+4mo_154,2.932615175,Calc,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Calc.tif:middle:1,b_4-6 mo,4,middle,stellate
+4mo_154,2.932615175,Calc,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Calc.tif:middle:1,b_4-6 mo,4,middle,ensheathing
+4mo_154,2.932309108,Calc,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Calc.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+4mo_154,0,Calc,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Calc.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing
+4mo_154,19.88274983,CoS,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Cos.tif:deep:1,b_4-6 mo,4,deep,stellate
+4mo_154,19.88274983,CoS,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Cos.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+4mo_154,53.44741149,CoS,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Cos.tif:middle:1,b_4-6 mo,4,middle,stellate
+4mo_154,0,CoS,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Cos.tif:middle:1,b_4-6 mo,4,middle,ensheathing
+4mo_154,4.824930648,CoS,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Cos.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+4mo_154,0,CoS,crop_MAX_A19-122_4months_Slide154_DAPI_MBP-594_BCAS1-647_Cos.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing
+4mo_172,29.99393391,Calc,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Calc.tif:deep:1,b_4-6 mo,4,deep,stellate
+4mo_172,71.98544138,Calc,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Calc.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+4mo_172,18.41753124,Calc,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Calc.tif:middle:1,b_4-6 mo,4,middle,stellate
+4mo_172,7.367012495,Calc,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Calc.tif:middle:1,b_4-6 mo,4,middle,ensheathing
+4mo_172,24.59699404,Calc,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Calc.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+4mo_172,0,Calc,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Calc.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing
+4mo_172,7.244111242,CoS,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Cos.tif:deep:1,b_4-6 mo,4,deep,stellate
+4mo_172,14.48822248,CoS,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Cos.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+4mo_172,15.9920687,CoS,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Cos.tif:middle:1,b_4-6 mo,4,middle,stellate
+4mo_172,0,CoS,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Cos.tif:middle:1,b_4-6 mo,4,middle,ensheathing
+4mo_172,19.48927573,CoS,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Cos.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+4mo_172,0,CoS,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_Cos.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing
+4mo_172,20.59010672,FG,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_MFS.tif:deep:1,b_4-6 mo,4,deep,stellate
+4mo_172,2.745347563,FG,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_MFS.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+4mo_172,5.3757531,FG,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_MFS.tif:middle:1,b_4-6 mo,4,middle,stellate
+4mo_172,0,FG,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_MFS.tif:middle:1,b_4-6 mo,4,middle,ensheathing
+4mo_172,1.266134696,FG,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_MFS.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+4mo_172,0,FG,crop_MAX_A19-122_4mo_Slide172_DAPI-MBP-BCAS1_MFS.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing
+4mo_199,20.90532824,Calc,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:deep:4,b_4-6 mo,4,deep,stellate
+4mo_199,27.87377098,Calc,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:deep:4,b_4-6 mo,4,deep,ensheathing
+4mo_199,0,Calc,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:middle:4,b_4-6 mo,4,middle,stellate
+4mo_199,4.310931449,Calc,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:middle:4,b_4-6 mo,4,middle,ensheathing
+4mo_199,9.8959109,Calc,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:superficial:4,b_4-6 mo,4,superficial,stellate
+4mo_199,0,Calc,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc.tif:superficial:4,b_4-6 mo,4,superficial,ensheathing
+5mo_137,140.7668556,Calc,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:deep:1,b_4-6 mo,4,deep,stellate
+5mo_137,56.30674224,Calc,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+5mo_137,104.8224347,Calc,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:middle:1,b_4-6 mo,4,middle,stellate
+5mo_137,17.47040579,Calc,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:middle:1,b_4-6 mo,4,middle,ensheathing
+5mo_137,77.56297831,Calc,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+5mo_137,11.08042547,Calc,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing
+5mo_137,39.79957755,CoS,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:deep:4,b_4-6 mo,4,deep,stellate
+5mo_137,63.01599779,CoS,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:deep:4,b_4-6 mo,4,deep,ensheathing
+5mo_137,29.80269299,CoS,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:middle:4,b_4-6 mo,4,middle,stellate
+5mo_137,0,CoS,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:middle:4,b_4-6 mo,4,middle,ensheathing
+5mo_137,19.95646096,CoS,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+5mo_137,0,CoS,crop_MAX_A22-97_5mo_Slide137_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing
+5mo_167,38.45090355,FG,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_MFS.tif:deep:1,b_4-6 mo,4,deep,stellate
+5mo_167,50.28195079,FG,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_MFS.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+5mo_167,20.28957352,FG,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_MFS.tif:middle:1,b_4-6 mo,4,middle,stellate
+5mo_167,16.23165882,FG,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_MFS.tif:middle:1,b_4-6 mo,4,middle,ensheathing
+5mo_167,12.21156201,FG,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_MFS.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+5mo_167,2.713680446,FG,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_MFS.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing
+5mo_167,62.45276558,Calc,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_Calc.tif:0001-3087-0708:1,b_4-6 mo,4,deep,stellate
+5mo_167,23.00891363,Calc,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_Calc.tif:0001-3087-0708:1,b_4-6 mo,4,deep,ensheathing
+5mo_167,64.55036962,Calc,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_Calc.tif:0001-2190-0708:1,b_4-6 mo,4,middle,stellate
+5mo_167,0,Calc,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_Calc.tif:0001-2190-0708:1,b_4-6 mo,4,middle,ensheathing
+5mo_167,47.47283398,Calc,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_Calc.tif:0001-1083-0708:1,b_4-6 mo,4,superficial,stellate
+5mo_167,1.283049567,Calc,crop_MAX_A22-97_5mo_LH_Slide167_DAPI_PV-488_MVP-594_BCAS1-647_Calc.tif:0001-1083-0708:1,b_4-6 mo,4,superficial,ensheathing
+6mo_73,7.992851865,Calc,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:deep:2,b_4-6 mo,4,deep,stellate
+6mo_73,39.96425932,Calc,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:deep:2,b_4-6 mo,4,deep,ensheathing
+6mo_73,17.20779704,Calc,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:middle:2,b_4-6 mo,4,middle,stellate
+6mo_73,22.94372939,Calc,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:middle:2,b_4-6 mo,4,middle,ensheathing
+6mo_73,24.52261406,Calc,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:superficial:2,b_4-6 mo,4,superficial,stellate
+6mo_73,1.532663379,Calc,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:superficial:2,b_4-6 mo,4,superficial,ensheathing
+6mo_73,26.55160315,CoS,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:deep:1,b_4-6 mo,4,deep,stellate
+6mo_73,30.34468931,CoS,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+6mo_73,13.23506343,CoS,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:middle:1,b_4-6 mo,4,middle,stellate
+6mo_73,19.85259514,CoS,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:middle:1,b_4-6 mo,4,middle,ensheathing
+6mo_73,44.53841102,CoS,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+6mo_73,2.619906531,CoS,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing
+6mo_73,42.89914503,FG,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:deep:1,b_4-6 mo,4,deep,stellate
+6mo_73,42.89914503,FG,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+6mo_73,95.73207701,FG,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:middle:1,b_4-6 mo,4,middle,stellate
+6mo_73,0,FG,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:middle:1,b_4-6 mo,4,middle,ensheathing
+6mo_73,57.12756137,FG,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+6mo_73,1.969915909,FG,crop_MAX_A20-21_Slide73_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing
+6mo_118,31.06810498,Calc,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:deep:1,b_4-6 mo,4,deep,stellate
+6mo_118,43.49534698,Calc,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+6mo_118,5.834790203,Calc,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:middle:2,b_4-6 mo,4,middle,stellate
+6mo_118,17.50437061,Calc,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:middle:2,b_4-6 mo,4,middle,ensheathing
+6mo_118,24.29354716,Calc,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:superficial:2,b_4-6 mo,4,superficial,stellate
+6mo_118,6.941013475,Calc,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:superficial:2,b_4-6 mo,4,superficial,ensheathing
+6mo_118,59.49391115,CoS,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:deep:1,b_4-6 mo,4,deep,stellate
+6mo_118,19.83130372,CoS,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+6mo_118,30.81908429,CoS,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:middle:4,b_4-6 mo,4,middle,stellate
+6mo_118,0,CoS,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:middle:4,b_4-6 mo,4,middle,ensheathing
+6mo_118,34.2514395,CoS,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:superficial:4,b_4-6 mo,4,superficial,stellate
+6mo_118,1.489193022,CoS,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:superficial:4,b_4-6 mo,4,superficial,ensheathing
+6mo_118,47.84899719,FG,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:deep:4,b_4-6 mo,4,deep,stellate
+6mo_118,27.60519069,FG,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:deep:4,b_4-6 mo,4,deep,ensheathing
+6mo_118,139.2434831,FG,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:middle:4,b_4-6 mo,4,middle,stellate
+6mo_118,0,FG,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:middle:4,b_4-6 mo,4,middle,ensheathing
+6mo_118,72.42074954,FG,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:superficial:4,b_4-6 mo,4,superficial,stellate
+6mo_118,5.871952665,FG,crop_MAX_A20-21_3mo_Slide118_DAPI-405_PV-488_MBP-594_BCAS1-647_MFS.tif:superficial:4,b_4-6 mo,4,superficial,ensheathing
+1mo_172,10.7857537,CoS,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Cos-002,a_0-1.5 mo,1,deep,stellate
+1mo_172,0,CoS,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Cos-002,a_0-1.5 mo,1,deep,ensheathing
+1mo_172,0,CoS,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Cos-002,a_0-1.5 mo,1,middle,stellate
+1mo_172,0,CoS,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Cos-002,a_0-1.5 mo,1,middle,ensheathing
+1mo_172,5.996396385,CoS,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Cos-002.tif:1,a_0-1.5 mo,1,superficial,stellate
+1mo_172,0,CoS,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Cos-002.tif:1,a_0-1.5 mo,1,superficial,ensheathing
+1mo_172,41.87360985,Calc,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Calc-001,a_0-1.5 mo,1,deep,stellate
+1mo_172,0,Calc,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Calc-001,a_0-1.5 mo,1,deep,ensheathing
+1mo_172,0,Calc,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Calc-001,a_0-1.5 mo,1,middle,stellate
+1mo_172,0,Calc,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Calc-001,a_0-1.5 mo,1,middle,ensheathing
+1mo_172,1.775314118,Calc,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Calc-001,a_0-1.5 mo,1,superficial,stellate
+1mo_172,1.775314118,Calc,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_Calc-001,a_0-1.5 mo,1,superficial,ensheathing
+1mo_172,7.580125139,FG,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_FG-003.tif:4,a_0-1.5 mo,1,deep,stellate
+1mo_172,0,FG,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_FG-003.tif:4,a_0-1.5 mo,1,deep,ensheathing
+1mo_172,0,FG,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_FG-003.tif:4,a_0-1.5 mo,1,middle,stellate
+1mo_172,0,FG,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_FG-003.tif:4,a_0-1.5 mo,1,middle,ensheathing
+1mo_172,0,FG,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_FG-003.tif:4,a_0-1.5 mo,1,superficial,stellate
+1mo_172,0,FG,crop_MAX_A20-21_36gw6wo_Slide172_DAPI-405_CC1-488_Olig2-594_BCAS1-647_FG-003.tif:4,a_0-1.5 mo,1,superficial,ensheathing
+1.5mo_150,7.268189104,FG,MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_FG.tif:1,a_0-1.5 mo,1.5,deep,stellate
+1.5mo_150,0,FG,MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_FG.tif:1,a_0-1.5 mo,1.5,deep,ensheathing
+1.5mo_150,0,FG,MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_FG.tif:1,a_0-1.5 mo,1.5,middle,stellate
+1.5mo_150,0,FG,MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_FG.tif:1,a_0-1.5 mo,1.5,middle,ensheathing
+1.5mo_150,1.027048049,FG,MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_FG.tif:1,a_0-1.5 mo,1.5,superficial,stellate
+1.5mo_150,0,FG,MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_FG.tif:1,a_0-1.5 mo,1.5,superficial,ensheathing
+1.5mo_150,28.30304855,Calc,crop_MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_Calc.tif:3,a_0-1.5 mo,1.5,deep,stellate
+1.5mo_150,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_Calc.tif:3,a_0-1.5 mo,1.5,deep,ensheathing
+1.5mo_150,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_Calc.tif:3,a_0-1.5 mo,1.5,middle,stellate
+1.5mo_150,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_Calc.tif:3,a_0-1.5 mo,1.5,middle,ensheathing
+1.5mo_150,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_Calc.tif:3,a_0-1.5 mo,1.5,superficial,stellate
+1.5mo_150,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide150_DAPI_MBP-594_BCAS1-647_Calc.tif:3,a_0-1.5 mo,1.5,superficial,ensheathing
+1.5mo_191,29.86097923,Calc,crop_MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,1.5,deep,stellate
+1.5mo_191,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,1.5,deep,ensheathing
+1.5mo_191,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,1.5,middle,stellate
+1.5mo_191,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,1.5,middle,ensheathing
+1.5mo_191,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,1.5,superficial,stellate
+1.5mo_191,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_Calc.tif:1,a_0-1.5 mo,1.5,superficial,ensheathing
+1.5mo_191,6.754487203,FG,MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_MFS.tif:3,a_0-1.5 mo,1.5,deep,stellate
+1.5mo_191,0,FG,MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_MFS.tif:3,a_0-1.5 mo,1.5,deep,ensheathing
+1.5mo_191,0,FG,MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_MFS.tif:3,a_0-1.5 mo,1.5,middle,stellate
+1.5mo_191,0,FG,MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_MFS.tif:3,a_0-1.5 mo,1.5,middle,ensheathing
+1.5mo_191,1.14417154,FG,MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_MFS.tif:3,a_0-1.5 mo,1.5,superficial,stellate
+1.5mo_191,0,FG,MAX_09277024_1.5mo_LH_Slide191_DAPI_MBP-594_BCAS1-647_MFS.tif:3,a_0-1.5 mo,1.5,superficial,ensheathing
+6mo_150,15.8669693,Calc,crop_MAX_A20-21_3mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:deep:4,b_4-6 mo,6,deep,stellate
+6mo_150,31.7339386,Calc,crop_MAX_A20-21_3mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:deep:4,b_4-6 mo,6,deep,ensheathing
+6mo_150,64.41730917,Calc,crop_MAX_A20-21_3mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:middle:4,b_4-6 mo,6,middle,stellate
+6mo_150,8.70504178,Calc,crop_MAX_A20-21_3mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:middle:4,b_4-6 mo,6,middle,ensheathing
+6mo_150,3.49799689,Calc,crop_MAX_A20-21_3mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:superficial:4,b_4-6 mo,6,superficial,stellate
+6mo_150,40.22696424,Calc,crop_MAX_A20-21_3mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Calc.tif:superficial:4,b_4-6 mo,6,superficial,ensheathing
+6mo_150,75.90448997,CoS,crop_MAX_A20-21_27gw6mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:deep:4,b_4-6 mo,6,deep,stellate
+6mo_150,37.95224498,CoS,crop_MAX_A20-21_27gw6mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:deep:4,b_4-6 mo,6,deep,ensheathing
+6mo_150,86.98424432,CoS,crop_MAX_A20-21_27gw6mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:middle:4,b_4-6 mo,6,middle,stellate
+6mo_150,0,CoS,crop_MAX_A20-21_27gw6mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:middle:4,b_4-6 mo,6,middle,ensheathing
+6mo_150,38.18423344,CoS,crop_MAX_A20-21_27gw6mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:superficial:4,b_4-6 mo,6,superficial,stellate
+6mo_150,5.454890491,CoS,crop_MAX_A20-21_27gw6mo_Slide150_DAPI-405_PV-488_MBP-594_BCAS1-647_Cos.tif:superficial:4,b_4-6 mo,6,superficial,ensheathing
+24mo_29,24.291895,FG,crop_MAX_A14-33_2yo_BlockA1_Slide29_DAPI_PV-488_MBP-594_BCAS1-647_MFS.tif:deep:1,c_2yrs,24,deep,stellate
+24mo_29,9.505524129,FG,crop_MAX_A14-33_2yo_BlockA1_Slide29_DAPI_PV-488_MBP-594_BCAS1-647_MFS.tif:deep:1,c_2yrs,24,deep,ensheathing
+24mo_29,4.845715754,FG,crop_MAX_A14-33_2yo_BlockA1_Slide29_DAPI_PV-488_MBP-594_BCAS1-647_MFS.tif:middle:1,c_2yrs,24,middle,stellate
+24mo_29,0,FG,crop_MAX_A14-33_2yo_BlockA1_Slide29_DAPI_PV-488_MBP-594_BCAS1-647_MFS.tif:middle:1,c_2yrs,24,middle,ensheathing
+24mo_29,5.666193605,FG,crop_MAX_A14-33_2yo_BlockA1_Slide29_DAPI_PV-488_MBP-594_BCAS1-647_MFS.tif:superficial:1,c_2yrs,24,superficial,stellate
+24mo_29,0,FG,crop_MAX_A14-33_2yo_BlockA1_Slide29_DAPI_PV-488_MBP-594_BCAS1-647_MFS.tif:superficial:1,c_2yrs,24,superficial,ensheathing
+24mo_113,19.25717101,FG,crop_MAX_A14-33_2yo_BlockA1_Slide113_DAPI-MAP2-488_MBP-594_BCAS1-647_MFS.tif:deep:1,c_2yrs,24,deep,stellate
+24mo_113,14.00521528,FG,crop_MAX_A14-33_2yo_BlockA1_Slide113_DAPI-MAP2-488_MBP-594_BCAS1-647_MFS.tif:deep:1,c_2yrs,24,deep,ensheathing
+24mo_113,6.189298072,FG,crop_MAX_A14-33_2yo_BlockA1_Slide113_DAPI-MAP2-488_MBP-594_BCAS1-647_MFS.tif:middle:1,c_2yrs,24,middle,stellate
+24mo_113,0,FG,crop_MAX_A14-33_2yo_BlockA1_Slide113_DAPI-MAP2-488_MBP-594_BCAS1-647_MFS.tif:middle:1,c_2yrs,24,middle,ensheathing
+24mo_113,37.0812315,FG,crop_MAX_A14-33_2yo_BlockA1_Slide113_DAPI-MAP2-488_MBP-594_BCAS1-647_MFS.tif:superficial:1,c_2yrs,24,superficial,stellate
+24mo_113,1.951643763,FG,crop_MAX_A14-33_2yo_BlockA1_Slide113_DAPI-MAP2-488_MBP-594_BCAS1-647_MFS.tif:superficial:1,c_2yrs,24,superficial,ensheathing
+24mo_75,24.47741964,Calc,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Calc.tif:deep:1,c_2yrs,24,deep,stellate
+24mo_75,24.47741964,Calc,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Calc.tif:deep:1,c_2yrs,24,deep,ensheathing
+24mo_75,11.64990396,Calc,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Calc.tif:middle:1,c_2yrs,24,middle,stellate
+24mo_75,5.82495198,Calc,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Calc.tif:middle:1,c_2yrs,24,middle,ensheathing
+24mo_75,22.66615049,Calc,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Calc.tif:superficial:1,c_2yrs,24,superficial,stellate
+24mo_75,0,Calc,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Calc.tif:superficial:1,c_2yrs,24,superficial,ensheathing
+24mo_75,15.34392377,CoS,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Cos.tif:deep:1,c_2yrs,24,deep,stellate
+24mo_75,7.671961885,CoS,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Cos.tif:deep:1,c_2yrs,24,deep,ensheathing
+24mo_75,59.47210985,CoS,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Cos.tif:middle:1,c_2yrs,24,middle,stellate
+24mo_75,0,CoS,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Cos.tif:middle:1,c_2yrs,24,middle,ensheathing
+24mo_75,11.1457083,CoS,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,c_2yrs,24,superficial,stellate
+24mo_75,1.85761805,CoS,crop_MAX_A14-33_2yo_BlockA2_slide75_DAPI_PV-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,c_2yrs,24,superficial,ensheathing
+24mo_241,9.053397982,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Calc.tif:deep:1,c_2yrs,24,deep,stellate
+24mo_241,18.10679597,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Calc.tif:deep:1,c_2yrs,24,deep,ensheathing
+24mo_241,13.81363174,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Calc.tif:middle:1,c_2yrs,24,middle,stellate
+24mo_241,6.906815872,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Calc.tif:middle:1,c_2yrs,24,middle,ensheathing
+24mo_241,8.032655981,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Calc.tif:superficial:1,c_2yrs,24,superficial,stellate
+24mo_241,0,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Calc.tif:superficial:1,c_2yrs,24,superficial,ensheathing
+24mo_241,8.046490207,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Cos.tif:deep:1,c_2yrs,24,deep,stellate
+24mo_241,4.023245103,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Cos.tif:deep:1,c_2yrs,24,deep,ensheathing
+24mo_241,9.323303361,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Cos.tif:middle:1,c_2yrs,24,middle,stellate
+24mo_241,0,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Cos.tif:middle:1,c_2yrs,24,middle,ensheathing
+24mo_241,0.763008056,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,c_2yrs,24,superficial,stellate
+24mo_241,0,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide241_DAPI-Olig2-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,c_2yrs,24,superficial,ensheathing
+24mo_273,8.548701848,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Calc.tif:deep:1,c_2yrs,24,deep,stellate
+24mo_273,25.64610554,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Calc.tif:deep:1,c_2yrs,24,deep,ensheathing
+24mo_273,7.617839773,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Calc.tif:middle:1,c_2yrs,24,middle,stellate
+24mo_273,7.617839773,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Calc.tif:middle:1,c_2yrs,24,middle,ensheathing
+24mo_273,9.100553886,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Calc.tif:superficial:1,c_2yrs,24,superficial,stellate
+24mo_273,0,Calc,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Calc.tif:superficial:1,c_2yrs,24,superficial,ensheathing
+24mo_273,0,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Cos.tif:deep:1,c_2yrs,24,deep,stellate
+24mo_273,27.31446135,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Cos.tif:deep:1,c_2yrs,24,deep,ensheathing
+24mo_273,16.65007431,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Cos.tif:middle:1,c_2yrs,24,middle,stellate
+24mo_273,0,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Cos.tif:middle:1,c_2yrs,24,middle,ensheathing
+24mo_273,6.259212178,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,c_2yrs,24,superficial,stellate
+24mo_273,0,CoS,crop_MAX_A14-33_2yo_BlockA2_Slide273_DAPI-MAP2-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,c_2yrs,24,superficial,ensheathing
+1.5mo_257,5.086465695,CoS,crop_MAX_09277024_1.5mo_LH_Slide257_DAPI_MBP-594_BCAS1-647_CoS.tif:3,a_0-1.5 mo,1.5,deep,stellate
+1.5mo_257,0,CoS,crop_MAX_09277024_1.5mo_LH_Slide257_DAPI_MBP-594_BCAS1-647_CoS.tif:3,a_0-1.5 mo,1.5,deep,ensheathing
+1.5mo_257,0,CoS,crop_MAX_09277024_1.5mo_LH_Slide257_DAPI_MBP-594_BCAS1-647_CoS.tif:3,a_0-1.5 mo,1.5,middle,stellate
+1.5mo_257,0,CoS,crop_MAX_09277024_1.5mo_LH_Slide257_DAPI_MBP-594_BCAS1-647_CoS.tif:3,a_0-1.5 mo,1.5,middle,ensheathing
+1.5mo_257,0,CoS,crop_MAX_09277024_1.5mo_LH_Slide257_DAPI_MBP-594_BCAS1-647_CoS.tif:3,a_0-1.5 mo,1.5,superficial,stellate
+1.5mo_257,0,CoS,crop_MAX_09277024_1.5mo_LH_Slide257_DAPI_MBP-594_BCAS1-647_CoS.tif:3,a_0-1.5 mo,1.5,superficial,ensheathing
+1.5mo_300,14.68941789,Calc,crop_MAX_09277024_1.5mo_LH_Slide300_DAPI_MBP-594_BCAS1-647_Calc-1.tif:1,a_0-1.5 mo,1.5,deep,stellate
+1.5mo_300,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide300_DAPI_MBP-594_BCAS1-647_Calc-1.tif:1,a_0-1.5 mo,1.5,deep,ensheathing
+1.5mo_300,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide300_DAPI_MBP-594_BCAS1-647_Calc-1.tif:1,a_0-1.5 mo,1.5,middle,stellate
+1.5mo_300,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide300_DAPI_MBP-594_BCAS1-647_Calc-1.tif:1,a_0-1.5 mo,1.5,middle,ensheathing
+1.5mo_300,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide300_DAPI_MBP-594_BCAS1-647_Calc-1.tif:1,a_0-1.5 mo,1.5,superficial,stellate
+1.5mo_300,0,Calc,crop_MAX_09277024_1.5mo_LH_Slide300_DAPI_MBP-594_BCAS1-647_Calc-1.tif:1,a_0-1.5 mo,1.5,superficial,ensheathing
+4mo_199,28.16547317,CoS,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:deep:1,b_4-6 mo,4,deep,stellate
+4mo_199,28.16547317,CoS,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:deep:1,b_4-6 mo,4,deep,ensheathing
+4mo_199,46.7800037,CoS,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:middle:1,b_4-6 mo,4,middle,stellate
+4mo_199,0,CoS,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:middle:1,b_4-6 mo,4,middle,ensheathing
+4mo_199,12.30868094,CoS,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,b_4-6 mo,4,superficial,stellate
+4mo_199,0,CoS,crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos.tif:superficial:1,b_4-6 mo,4,superficial,ensheathing

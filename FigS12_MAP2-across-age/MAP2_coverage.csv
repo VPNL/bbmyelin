@@ -1,0 +1,80 @@
+ImageID,MAP2_coverage,Region,Age,Age_group,Slide_number
+soma-removed_MAX_A22-47_5mo_Slide101_MAP2-594_FG_high-res-1.tif,12.314,FG,0,a_0-1mo,5mo_101
+soma-removed_MAX_A15-76_0mo_Slide312_MAP2-594_Calc_high-res.tif,6.763,Calc,0,a_0-1mo,0mo_312
+soma-removed_MAX_A15-76_0mo_Slide312_MAP2-594_CoS_high-res.tif,3.34,CoS,0,a_0-1mo,0mo_312
+soma-removed_crop_MAX_A15-76_0mo_Slide313_DAPI_NeuN-488_MAP2-594_MBP-647_FG_high-res.tif,5.336,FG,0,a_0-1mo,0mo_313
+soma-removed_MAX_A15-76_0mo_Slide313_DAPI_NeuN-488_MAP2-594_MBP-647_Calc_high-res.tif,2.752,Calc,0,a_0-1mo,0mo_313
+soma-removed_MAX_A15-76_0mo_Slide313_DAPI_NeuN-488_MAP2-594_MBP-647_CoS_FOV_high-res.tif,7.495,CoS,0,a_0-1mo,0mo_313
+soma-removed_MAX_A15-76_0mo_Slide315_MAP2-594_Calc_high-res.czi - A15-76_0mo_Slide315_MAP2-594_Calc_high-res.tif,3.445,Calc,0,a_0-1mo,0mo_315
+soma-removed_MAX_A15-76_0mo_Slide315_MAP2-594_CoS_high-res.czi - A15-76_0mo_Slide315_MAP2-594_CoS_high-res.tif,4.539,CoS,0,a_0-1mo,0mo_315
+soma-removed_MAX_A15-76_0mo_Slide315_MAP2-594_FG_high-res.czi - A15-76_0mo_Slide315_MAP2-594_FG_high-re.tif,2.847,FG,0,a_0-1mo,0mo_315
+soma-removed_MAX_A15-16_1mo_Slide173_MAP2-594_FG_40x-no-averaging-1.tif,6.01,FG,1,a_0-1mo,1mo_173
+soma-removed_MAX_A15-16_Slide18_MAP2-488_Calc-1.tif,2.02,Calc,1,a_0-1mo,1mo_18
+soma-removed_MAX_Calcarine_36gw6wo_A15-16_A-LH-M_Slide222_MAP2-488_0.0902um-pxl-1.tif,4.454,Calc,1,a_0-1mo,1mo_222
+soma-removed_MAX_Calcarine_36gw6wo_A15-16_P-RH-V_Slide163_MAP2-594_0.0902um-pxl-1.tif,14.844,Calc,1,a_0-1mo,1mo_163
+soma-removed_MAX_CoS_36gw6wo_A15-16_A-LH-M_Slide87_MAP2-488_0.0902um-pxl-1.tif,1.581,CoS,1,a_0-1mo,1mo_87
+soma-removed_MAX_CoS_36gw6wo_A15-16_P-RH-V_Slide163_MAP2-594_0.0902um-pxl-1.tif,0.704,CoS,1,a_0-1mo,1mo_163
+soma-removed_Result of MAX_A15-16_1mo_Slide102_MAP2-594_FG_40x-no-averaging.czi - A15-16_1mo_Slide102_MAP2-594_FG_40x-no-averaging.czi #1-1-1.tif,5.58,FG,1,a_0-1mo,1mo_102
+soma-removed_crop_MAX_09242024_1.5mo_block2-vent_slide100_Calc_MAP2-594_high-res-1.tif,17.073,Calc,1.5,b_1.5-4mo,1.5mo_100
+soma-removed_crop_MAX_09242024_1.5mo_block2-vent_slide100_fg_MAP2-594_high-res-2.tif,17.83,FG,1.5,b_1.5-4mo,1.5mo_100
+soma-removed_MAX_09242024_1.5mo_block2-vent_slide100_CoS_MAP2-594_high-res-1.tif,14.669,CoS,1.5,b_1.5-4mo,1.5mo_100
+soma-removed_crop_MAX_09242024_1.5mo_block2-vent_slide201_Calc_MAP2-594_high-res-2.tif,16.216,Calc,1.5,b_1.5-4mo,1.5mo_201
+soma-removed_crop_MAX_09242024_1.5mo_block2-vent_slide201_CoS_MAP2-594_high-res-2.tif,16.344,CoS,1.5,b_1.5-4mo,1.5mo_201
+soma-removed_crop_MAX_09242024_1.5mo_block2-vent_slide201_FG_MAP2-594_high-res-2.tif,18.263,FG,1.5,b_1.5-4mo,1.5mo_201
+soma-removed_crop_MAX_09242024_1.5mo_block2-vent_slide247_MAP2-594_Calc-high-res-2.tif,14.901,Calc,1.5,b_1.5-4mo,1.5mo_247
+soma-removed_crop_MAX_09242024_1.5mo_block2-vent_slide247_MAP2-594_CoS-high-res-2.tif,8.913,CoS,1.5,b_1.5-4mo,1.5mo_247
+soma-removed_crop_MAX_09242024_1.5mo_block2-vent_slide247_MAP2-594_FG-high-res-2.tif,13.426,FG,1.5,b_1.5-4mo,1.5mo_247
+soma-removed_crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc-1.tif,2.607,Calc,4,b_1.5-4mo,4mo_101
+soma-removed_crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos-1.tif,9.444,CoS,4,b_1.5-4mo,4mo_101
+soma-removed_crop_MAX_A19-122_4months_Slide101_DAPI_MAP2-488_MBP-594_BCAS1-647_Fus-1.tif,17.031,FG,4,b_1.5-4mo,4mo_101
+soma-removed_crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Calc-1.tif,5.522,Calc,4,b_1.5-4mo,4mo_199
+soma-removed_crop_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Cos-1.tif,11.141,CoS,4,b_1.5-4mo,4mo_199
+soma-removed_MAX_A19-122_4months_Slide199_DAPI_MAP2-488_MBP-594_BCAS1-647_Fus-1-1.tif,10.915,FG,4,b_1.5-4mo,4mo_199
+soma-removed_crop_MAX_A19-122_4mo_Slide251_MAP2-594_40x_FG-1.tif,5.557,FG,4,b_1.5-4mo,4mo_251
+soma-removed_MAX_A19-122_4mo_Slide251_MAP2-594_40x_Calc-1.tif,1.941,Calc,4,b_1.5-4mo,4mo_251
+soma-removed_MAX_A19-122_4mo_Slide251_MAP2-594_40x_CoS-1.tif,4.897,CoS,4,b_1.5-4mo,4mo_251
+soma-removed_crop_MAX_A22-47_5mo_Slide101_MAP2-594_Calc_high-res-1.tif,11.715,Calc,5,c_5-6mo,5mo_101
+soma-removed_MAX_A22-47_5mo_Slide101_MAP2-594_CoS_high-res-1.tif,15.313,CoS,5,c_5-6mo,5mo_101
+soma-removed_MAX_A22-47_5mo_Slide101_MAP2-594_FG_high-res-1.tif,12.314,FG,5,c_5-6mo,5mo_101
+soma-removed_crop_MAX_A22-47_5mo_Slide136_MAP2-594_FG_high-r-2.tif,8.827,FG,5,c_5-6mo,5mo_136
+soma-removed_MAX_A22-47_5mo_Slide136_MAP2-594_Calc_CoS_FG_high-res.czi - A22-47_5mo_Slide136_MAP2-594_Calc-high-res-1.tif,7.775,Calc,5,c_5-6mo,5mo_136
+soma-removed_MAX_A22-47_5mo_Slide136_MAP2-594_CoS_high-res-1.tif,12.121,CoS,5,c_5-6mo,5mo_136
+soma-removed_crop_MAX_A22-47_5mo_Slide187_MAP2-594_FG_high-res-1.tif,21.097,FG,5,c_5-6mo,5mo_187
+soma-removed_MAX_A22-47_5mo_Slide187_MAP2-594_Calc_high-res.czi - A22-47_5mo_Slide187_MAP2-594_Calc_high-res.czi #1-1.tif,12.203,Calc,5,c_5-6mo,5mo_187
+soma-removed_MAX_A22-47_5mo_Slide187_MAP2-594_CoS_high-res-1.tif,23.555,CoS,5,c_5-6mo,5mo_187
+crop_vessels-removed_MAX_A20-21_6mo_Slide86_MAP2-594_CoS_40x-no-averaging-2.tif,7.776,CoS,6,c_5-6mo,6mo_86
+soma-removed_crop_MAX_A20-21_6mo_Slide86_MAP2-594_Calc_40x-no-averaging-2.tif,14.501,Calc,6,c_5-6mo,6mo_86
+soma-removed_MAX_A20-21_6mo_Slide86_MAP2-594_FG_40x-no-averaging-1.tif,6.647,FG,6,c_5-6mo,6mo_86
+soma-removed_MAX_A20-21_6mo_Slide134_MAP2-594_Calc_40x-1.tif,17.617,Calc,6,c_5-6mo,6mo_134
+soma-removed_MAX_A20-21_6mo_Slide134_MAP2-594_CoS_40x-1.tif,16.97,CoS,6,c_5-6mo,6mo_134
+soma-removed_MAX_A20-21_6mo_Slide134_MAP2-594_FG_40x-1.tif,8.849,FG,6,c_5-6mo,6mo_134
+soma-removed_MAX_A20-21_6mo_Slide165_MAP2-594__FG_40x-no-averaging-1.tif,9.623,FG,6,c_5-6mo,6mo_165
+soma-removed_MAX_A20-21_6mo_Slide165_MAP2-594_Calc_40x-no-averaging-1.tif,18.253,Calc,6,c_5-6mo,6mo_165
+soma-removed_MAX_A20-21_6mo_Slide165_MAP2-594_CoS_40x-no-averaging-1.tif,18.166,CoS,6,c_5-6mo,6mo_165
+soma-removed_crop_MAX_A14-33_2yo_BlockA2_Slide132_MAP2-594_Calc_high-res-1-1.tif,12.71,Calc,24,d_2yo,2yr_BlockA2_132
+soma-removed_crop_MAX_A14-33_2yo_BlockA2_Slide132_MAP2-594_CoS_high-res-1-1.tif,15.254,CoS,24,d_2yo,2yr_BlockA2_132
+soma-removed_MAX_A14-33_2yo_BlockA2_Slide197_MAP2-594_Calc-1.tif,13.35,Calc,24,d_2yo,2yr_BlockA2_197
+soma-removed_MAX_A14-33_2yo_BlockA2_Slide197_MAP2-594_CoS-1.tif,12.934,CoS,24,d_2yo,2yr_BlockA2_197
+soma-removed_crop_MAX_A14-33_2yo_BlockP2_Slide273_MAP2-488_Calc_high-res-2.tif,25.931,Calc,24,d_2yo,2yr_BlockP2_273
+soma-removed_MAX_A14-33_2yo_BlockP2_Slide273_MAP2-488_CoS_high-res-1.tif,25.593,CoS,24,d_2yo,2yr_BlockP2_273
+soma_removed_crop_MAX_A14-33_2yo_BlockP1_Slide113_MAP2-488_FG_high-res.czi - A14-33_2yo_BlockP1_Slide113_MAP2-488_FG_high-res.czi #1-2.tif,19.796,FG,24,d_2yo,2yr_BlockP1_113
+soma-removed_MAX_A14-33_2yo_BlockA1_Slide210_MAP2-594_FG_high-res.czi - A14-33_2yo_BlockA1_Slide210_MAP2-594_FG_high-res.czi #1-1.tif,14.556,FG,24,d_2yo,2yr_BlockA1_210
+soma-removed_crop_MAX_A14-33_2yo_BlockA1_Slide251_MAP2-594_FG_high-res.czi - A14-33_2yo_BlockA1_Slide251_MAP2-594_FG_high-res.czi #1-2.tif,10.74,FG,24,d_2yo,2yr_BlockA1_251
+soma-removed_crop_MAX_A22-49_9yo_LH_Slide382_MAP2-594_high-res_FG-1.tif,18.536,FG,108,e_9yo,9yr_LH_382
+soma-removed_MAX_A22-49_9yo_LH_Slide382_MAP2-594_high-res_Calc-1.tif,16.946,Calc,108,e_9yo,9yr_LH_382
+soma-removed_MAX_A22-49_9yo_LH_Slide382_MAP2-594_high-res_CoS-1.tif,17.001,CoS,108,e_9yo,9yr_LH_382
+soma-removed_crop_MAX_A22-49_9yo_LH_Slide391_MAP2-594_FG_40x.czi - A22-49_9yo_LH_Slide391_MAP2-594_FG_40x.czi #01-2.tif,18.08,FG,108,e_9yo,9yr_LH_391
+soma-removed_MAX_A22-49_9yo_LH_Slide391_MAP2-594_Calc_40x+no-averaging.czi - A22-49_9yo_LH_Slide391_MAP2-594_Calc_40x+no-averaging.czi #1-1.tif,26.667,Calc,108,e_9yo,9yr_LH_391
+soma-removed_MAX_A22-49_9yo_LH_Slide391_MAP2-594_CoS_40x-no-averaging.czi - A22-49_9yo_LH_Slide391_MAP2-594_CoS_40x-no-averaging.czi #1-1-1.tif,21.94,CoS,108,e_9yo,9yr_LH_391
+soma-removed_crop_MAX_A22-49_9yo_LH_Slide405_MAP2-594_FG_40x-1.tif,11.873,FG,108,e_9yo,9yr_LH_405
+soma-removed_MAX_A22-49_9yo_LH_Slide405_MAP2-594_CoS_40x-1.tif,6.249,Calc,108,e_9yo,9yr_LH_405
+soma-removed_MAX_A22-49_9yo_LH_Slide405_MAP2-594_Calc_40x-1.tif,8.568,Calc,108,e_9yo,9yr_LH_405
+soma-removed_MAX_A22-42_25yo_Slide33_MAP2-488_Calc_40x.czi - A22-42_25yo_Slide33_MAP2-488_Calc_40x.czi #1-2.tif,19.569,Calc,300,f_25yo,25yo_6A_33
+soma-removed_cleaned_crop_MAX_A22-42_25yo_Slide86_MAP2-594_Calc_40x.czi - A22-42_25yo_Slide86_MAP2-594_Calc_40x.czi #1-1-1.tif,13.707,Calc,300,f_25yo,25yo_6A_86
+soma-removed_cleaned_crop_MAX_A22-42_25yo_Slide120_MAP2-594_Calc_high-res.czi - A22-42_25yo_Slide120_MAP2-594_Calc_high-res.czi #1-1-1.tif,11.698,Calc,300,f_25yo,25yo_6A_120
+soma-removed_0.7blur_MAX_A22-42_25yo_Slide138_MAP2-488_Cos_40x-no-averaging-1.tif,18.235,CoS,300,f_25yo,25yo_4B_138
+soma-removed_crop_0.7blur_MAX_A22-42_25yo_Slide138_MAP2-488_FG_40x-no-averaging-1.tif,25.623,FG,300,f_25yo,25yo_4B_138
+soma-removed_MAX_A22-42_25yo_Slide181_MAP2-594_CoS_40x.czi - A22-42_25yo_Slide181_MAP2-594_CoS_40x.czi #1-1.tif,14.441,CoS,300,f_25yo,25yo_4B_181
+soma-removed_crop_MAX_A22-42_25yo_Slide181_MAP2-594_FG_40x-2.tif,18.595,FG,300,f_25yo,25yo_4B_181
+soma-removed_MAX_A22-42_25yo_Slide97_MAP2-594_CoS_40x.czi - A22-42_25yo_Slide97_MAP2-594_CoS_40x.czi #1-1.tif,17.345,CoS,300,f_25yo,25yo_4B_97
+soma-removed_MAX_A22-42_25yo_Slide97_MAP2-594_FG_40x.czi - A22-42_25yo_Slide97_MAP2-594_FG_40x.czi #2-1.tif,22.199,FG,300,f_25yo,25yo_4B_97
